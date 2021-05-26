@@ -1,0 +1,2 @@
+# SMP
+SmartMinerPRO (SMP/SMP+)
